@@ -1,4 +1,4 @@
-//Norbert Harasim nr 203151 ACIR ZADANIE 1 GRA KONO
+
 #include<iostream>
 #include<iomanip>
 #include<cstdlib>
